@@ -15,3 +15,13 @@ ul{
     padding: 0 16px;
     margin: 0 auto;
 }
+.hero{
+    background-image: url(./images/hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero_title{
+    width: 715px;
+    color: var(--4, #FFF);
+
+}
